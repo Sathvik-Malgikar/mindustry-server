@@ -188,3 +188,72 @@
 [04-02-2023 11:26:32] [I] Loading map...
 [04-02-2023 11:26:33] [I] Map loaded.
 [04-02-2023 11:26:33] [I] Opened a server on port 6567.
+[04-02-2023 12:30:40] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:30:40] [I] Found 1 command-line arguments to parse.
+[04-02-2023 12:30:40] [I] Commands:
+[04-02-2023 12:30:40] [I]    help [command] - Display the command list, or get help for a specific command.
+[04-02-2023 12:30:40] [I]    version - Displays server version info.
+[04-02-2023 12:30:40] [I]    exit - Exit the server application.
+[04-02-2023 12:30:40] [I]    stop - Stop hosting the server.
+[04-02-2023 12:30:40] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[04-02-2023 12:30:40] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[04-02-2023 12:30:40] [I]    reloadmaps - Reload all maps from disk.
+[04-02-2023 12:30:40] [I]    status - Display server status.
+[04-02-2023 12:30:40] [I]    mods - Display all loaded mods.
+[04-02-2023 12:30:40] [I]    mod <name...> - Display information about a loaded plugin.
+[04-02-2023 12:30:40] [I]    js <script...> - Run arbitrary Javascript.
+[04-02-2023 12:30:40] [I]    say <message...> - Send a message to all players.
+[04-02-2023 12:30:40] [I]    pause <on/off> - Pause or unpause the game.
+[04-02-2023 12:30:40] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[04-02-2023 12:30:40] [I]    fillitems [team] - Fill the core with items.
+[04-02-2023 12:30:40] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[04-02-2023 12:30:40] [I]    config [name] [value...] - Configure server settings.
+[04-02-2023 12:30:40] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[04-02-2023 12:30:40] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[04-02-2023 12:30:40] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[04-02-2023 12:30:40] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[04-02-2023 12:30:40] [I]    kick <username...> - Kick a person by name.
+[04-02-2023 12:30:40] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[04-02-2023 12:30:40] [I]    bans - List all banned IPs and IDs.
+[04-02-2023 12:30:40] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[04-02-2023 12:30:40] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[04-02-2023 12:30:40] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[04-02-2023 12:30:40] [I]    admins - List all admins.
+[04-02-2023 12:30:40] [I]    players - List all players currently in game.
+[04-02-2023 12:30:40] [I]    runwave - Trigger the next wave.
+[04-02-2023 12:30:40] [I]    load <slot> - Load a save from a slot.
+[04-02-2023 12:30:40] [I]    save <slot> - Save game state to a slot.
+[04-02-2023 12:30:40] [I]    saves - List all saves in the save directory.
+[04-02-2023 12:30:40] [I]    gameover - Force a game over.
+[04-02-2023 12:30:40] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[04-02-2023 12:30:40] [I]    search <name...> - Search players who have used part of a name.
+[04-02-2023 12:30:40] [I]    gc - Trigger a garbage collection. Testing only.
+[04-02-2023 12:30:40] [I]    yes - Run the last suggested incorrect command.
+[04-02-2023 12:31:58] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:31:58] [I] Found 1 command-line arguments to parse.
+[04-02-2023 12:31:58] [I] port set to 8080.
+[04-02-2023 12:32:40] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:33:04] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:33:04] [I] Found 1 command-line arguments to parse.
+[04-02-2023 12:33:04] [E] Not a valid number: 8080 host Molten_Lake
+[04-02-2023 12:33:33] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:33:33] [I] Found 1 command-line arguments to parse.
+[04-02-2023 12:33:33] [E] Invalid command argument sent: 'host Molten_Lake config port 8080': manyArguments
+[04-02-2023 12:33:33] [E] Argument usage: <command-1> <command1-args...>,<command-2> <command-2-args2...>
+[04-02-2023 12:33:46] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:33:46] [I] Found 2 command-line arguments to parse.
+[04-02-2023 12:33:46] [I] Loading map...
+[04-02-2023 12:33:46] [I] Map loaded.
+[04-02-2023 12:33:46] [I] Opened a server on port 8080.
+[04-02-2023 12:33:46] [E] Invalid command argument sent: ' config port 8080': unknownCommand
+[04-02-2023 12:33:46] [E] Argument usage: <command-1> <command1-args...>,<command-2> <command-2-args2...>
+[04-02-2023 12:34:11] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:34:11] [I] Found 2 command-line arguments to parse.
+[04-02-2023 12:34:11] [I] port set to 8080.
+[04-02-2023 12:34:11] [E] Invalid command argument sent: ' host Molten_Lake': unknownCommand
+[04-02-2023 12:34:11] [E] Argument usage: <command-1> <command1-args...>,<command-2> <command-2-args2...>
+[04-02-2023 12:34:24] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:34:24] [I] Found 1 command-line arguments to parse.
+[04-02-2023 12:34:24] [I] Loading map...
+[04-02-2023 12:34:24] [I] Map loaded.
+[04-02-2023 12:34:24] [I] Opened a server on port 8080.
