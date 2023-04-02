@@ -8,7 +8,7 @@
 
 #ENTRYPOINT ["java", "-jar", "server.jar", "host", "Molten_Lake"]
 
-
+EXPOSE 8080
 FROM openjdk:11-jre-slim
 WORKDIR /var/www/render/
 COPY ./server.jar ./server.jar
