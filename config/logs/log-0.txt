@@ -138,3 +138,7 @@
 [04-02-2023 10:44:59] [I] Selected next map to be Wasteland.
 [04-02-2023 10:51:52] [I] Game over! Reached wave 3 with 0 players online on map Wasteland.
 [04-02-2023 10:51:52] [I] Selected next map to be Triad.
+[04-02-2023 11:18:03] [I] Server loaded. Type 'help' for help.
+[04-02-2023 11:18:13] [I] Loading map...
+[04-02-2023 11:18:13] [I] Map loaded.
+[04-02-2023 11:18:13] [I] Opened a server on port 6567.
