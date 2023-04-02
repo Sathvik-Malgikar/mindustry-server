@@ -257,3 +257,11 @@
 [04-02-2023 12:34:24] [I] Loading map...
 [04-02-2023 12:34:24] [I] Map loaded.
 [04-02-2023 12:34:24] [I] Opened a server on port 8080.
+[04-02-2023 12:36:30] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:36:31] [I] Found 1 command-line arguments to parse.
+[04-02-2023 12:36:31] [E] Not a valid number: 0.0.0.0:8080
+[04-02-2023 12:42:04] [I] Server loaded. Type 'help' for help.
+[04-02-2023 12:42:04] [I] Found 1 command-line arguments to parse.
+[04-02-2023 12:42:04] [I] Loading map...
+[04-02-2023 12:42:04] [I] Map loaded.
+[04-02-2023 12:42:04] [I] Opened a server on port 8080.
