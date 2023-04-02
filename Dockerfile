@@ -1,4 +1,5 @@
 FROM openjdk:11-jre-slim
-COPY target/mindustry.jar /server2.jar
-CMD ["java","-jar","/server2.jar"]
+WORKDIR /var/www/render/
+COPY target/mindustry.jar /server.jar
+CMD ["java","-jar","/server.jar"]
 CMD ["host","Molten_Lake"]
