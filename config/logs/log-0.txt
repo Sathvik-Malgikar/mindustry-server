@@ -1,0 +1,138 @@
+[04-02-2023 09:00:54] [I] Server loaded. Type 'help' for help.
+[04-02-2023 09:01:01] [I] Commands:
+[04-02-2023 09:01:01] [I]    help [command] - Display the command list, or get help for a specific command.
+[04-02-2023 09:01:01] [I]    version - Displays server version info.
+[04-02-2023 09:01:01] [I]    exit - Exit the server application.
+[04-02-2023 09:01:01] [I]    stop - Stop hosting the server.
+[04-02-2023 09:01:01] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[04-02-2023 09:01:01] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[04-02-2023 09:01:01] [I]    reloadmaps - Reload all maps from disk.
+[04-02-2023 09:01:01] [I]    status - Display server status.
+[04-02-2023 09:01:01] [I]    mods - Display all loaded mods.
+[04-02-2023 09:01:01] [I]    mod <name...> - Display information about a loaded plugin.
+[04-02-2023 09:01:01] [I]    js <script...> - Run arbitrary Javascript.
+[04-02-2023 09:01:01] [I]    say <message...> - Send a message to all players.
+[04-02-2023 09:01:01] [I]    pause <on/off> - Pause or unpause the game.
+[04-02-2023 09:01:01] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[04-02-2023 09:01:01] [I]    fillitems [team] - Fill the core with items.
+[04-02-2023 09:01:01] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[04-02-2023 09:01:01] [I]    config [name] [value...] - Configure server settings.
+[04-02-2023 09:01:01] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[04-02-2023 09:01:01] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[04-02-2023 09:01:01] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[04-02-2023 09:01:01] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[04-02-2023 09:01:01] [I]    kick <username...> - Kick a person by name.
+[04-02-2023 09:01:01] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[04-02-2023 09:01:01] [I]    bans - List all banned IPs and IDs.
+[04-02-2023 09:01:01] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[04-02-2023 09:01:01] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[04-02-2023 09:01:01] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[04-02-2023 09:01:01] [I]    admins - List all admins.
+[04-02-2023 09:01:01] [I]    players - List all players currently in game.
+[04-02-2023 09:01:01] [I]    runwave - Trigger the next wave.
+[04-02-2023 09:01:01] [I]    load <slot> - Load a save from a slot.
+[04-02-2023 09:01:01] [I]    save <slot> - Save game state to a slot.
+[04-02-2023 09:01:01] [I]    saves - List all saves in the save directory.
+[04-02-2023 09:01:01] [I]    gameover - Force a game over.
+[04-02-2023 09:01:01] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[04-02-2023 09:01:01] [I]    search <name...> - Search players who have used part of a name.
+[04-02-2023 09:01:01] [I]    gc - Trigger a garbage collection. Testing only.
+[04-02-2023 09:01:01] [I]    yes - Run the last suggested incorrect command.
+[04-02-2023 09:04:10] [I] Server loaded. Type 'help' for help.
+[04-02-2023 09:04:18] [I] Commands:
+[04-02-2023 09:04:18] [I]    help [command] - Display the command list, or get help for a specific command.
+[04-02-2023 09:04:18] [I]    version - Displays server version info.
+[04-02-2023 09:04:18] [I]    exit - Exit the server application.
+[04-02-2023 09:04:18] [I]    stop - Stop hosting the server.
+[04-02-2023 09:04:18] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[04-02-2023 09:04:18] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[04-02-2023 09:04:18] [I]    reloadmaps - Reload all maps from disk.
+[04-02-2023 09:04:18] [I]    status - Display server status.
+[04-02-2023 09:04:18] [I]    mods - Display all loaded mods.
+[04-02-2023 09:04:18] [I]    mod <name...> - Display information about a loaded plugin.
+[04-02-2023 09:04:18] [I]    js <script...> - Run arbitrary Javascript.
+[04-02-2023 09:04:18] [I]    say <message...> - Send a message to all players.
+[04-02-2023 09:04:18] [I]    pause <on/off> - Pause or unpause the game.
+[04-02-2023 09:04:18] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[04-02-2023 09:04:18] [I]    fillitems [team] - Fill the core with items.
+[04-02-2023 09:04:18] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[04-02-2023 09:04:18] [I]    config [name] [value...] - Configure server settings.
+[04-02-2023 09:04:18] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[04-02-2023 09:04:18] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[04-02-2023 09:04:18] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[04-02-2023 09:04:18] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[04-02-2023 09:04:18] [I]    kick <username...> - Kick a person by name.
+[04-02-2023 09:04:18] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[04-02-2023 09:04:18] [I]    bans - List all banned IPs and IDs.
+[04-02-2023 09:04:18] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[04-02-2023 09:04:18] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[04-02-2023 09:04:18] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[04-02-2023 09:04:18] [I]    admins - List all admins.
+[04-02-2023 09:04:18] [I]    players - List all players currently in game.
+[04-02-2023 09:04:18] [I]    runwave - Trigger the next wave.
+[04-02-2023 09:04:18] [I]    load <slot> - Load a save from a slot.
+[04-02-2023 09:04:18] [I]    save <slot> - Save game state to a slot.
+[04-02-2023 09:04:18] [I]    saves - List all saves in the save directory.
+[04-02-2023 09:04:18] [I]    gameover - Force a game over.
+[04-02-2023 09:04:18] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[04-02-2023 09:04:18] [I]    search <name...> - Search players who have used part of a name.
+[04-02-2023 09:04:18] [I]    gc - Trigger a garbage collection. Testing only.
+[04-02-2023 09:04:18] [I]    yes - Run the last suggested incorrect command.
+[04-02-2023 09:05:22] [I] No custom maps loaded. To display built-in maps, use the "all" argument.
+[04-02-2023 09:05:22] [I] Map directory: E:\Games\mindustry-server\config\maps
+[04-02-2023 09:05:28] [I] No custom maps loaded. To display built-in maps, use the "all" argument.
+[04-02-2023 09:05:28] [I] Map directory: E:\Games\mindustry-server\config\maps
+[04-02-2023 09:05:35] [I] Maps:
+[04-02-2023 09:05:35] [I]   Ancient_Caldera: Default / 256x256
+[04-02-2023 09:05:35] [I]   Archipelago: Default / 500x500
+[04-02-2023 09:05:35] [I]   Debris_Field: Default / 400x400
+[04-02-2023 09:05:35] [I]   Domain: Default / 494x494
+[04-02-2023 09:05:35] [I]   Fork: Default / 250x300
+[04-02-2023 09:05:35] [I]   Fortress: Default / 256x256
+[04-02-2023 09:05:35] [I]   Glacier: Default / 150x250
+[04-02-2023 09:05:35] [I]   Islands: Default / 256x256
+[04-02-2023 09:05:35] [I]   Labyrinth: Default / 200x200
+[04-02-2023 09:05:35] [I]   Maze: Default / 256x256
+[04-02-2023 09:05:35] [I]   Molten_Lake: Default / 400x400
+[04-02-2023 09:05:35] [I]   Mud_Flats: Default / 400x400
+[04-02-2023 09:05:35] [I]   Passage: Default / 500x120
+[04-02-2023 09:05:35] [I]   Shattered: Default / 350x350
+[04-02-2023 09:05:35] [I]   Tendrils: Default / 300x300
+[04-02-2023 09:05:35] [I]   Triad: Default / 200x200
+[04-02-2023 09:05:35] [I]   Veins: Default / 350x200
+[04-02-2023 09:05:35] [I]   Wasteland: Default / 300x300
+[04-02-2023 09:05:35] [I] Map directory: E:\Games\mindustry-server\config\maps
+[04-02-2023 09:06:02] [E] No gamemode 'Default' found.
+[04-02-2023 09:06:11] [I] Loading map...
+[04-02-2023 09:06:11] [I] Map loaded.
+[04-02-2023 09:06:11] [I] Opened a server on port 6567.
+[04-02-2023 09:11:55] [I] Game over! Reached wave 2 with 0 players online on map Molten Lake.
+[04-02-2023 09:11:55] [I] Selected next map to be Tendrils.
+[04-02-2023 09:17:42] [I] Game over! Reached wave 2 with 0 players online on map Tendrils.
+[04-02-2023 09:17:42] [I] Selected next map to be Domain.
+[04-02-2023 09:23:03] [I] Sathvik has connected. [hceJYhUSfigAAAAAUWK43g==]
+[04-02-2023 09:23:07] [I] Sathvik has disconnected. [hceJYhUSfigAAAAAUWK43g==] (closed)
+[04-02-2023 09:30:03] [I] Game over! Reached wave 3 with 0 players online on map Domain.
+[04-02-2023 09:30:03] [I] Selected next map to be Molten Lake.
+[04-02-2023 09:36:00] [I] Game over! Reached wave 2 with 0 players online on map Molten Lake.
+[04-02-2023 09:36:01] [I] Selected next map to be Fortress.
+[04-02-2023 09:41:28] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[04-02-2023 09:41:28] [I] Selected next map to be Tendrils.
+[04-02-2023 09:47:13] [I] Game over! Reached wave 2 with 0 players online on map Tendrils.
+[04-02-2023 09:47:13] [I] Selected next map to be Labyrinth.
+[04-02-2023 09:48:52] [I] Sathvik has connected. [hceJYhUSfigAAAAAUWK43g==]
+[04-02-2023 09:48:59] [I] Sathvik has disconnected. [hceJYhUSfigAAAAAUWK43g==] (closed)
+[04-02-2023 09:53:33] [I] Game over! Reached wave 3 with 0 players online on map Labyrinth.
+[04-02-2023 09:53:33] [I] Selected next map to be Ancient Caldera.
+[04-02-2023 09:59:05] [I] Game over! Reached wave 2 with 0 players online on map Ancient Caldera.
+[04-02-2023 09:59:05] [I] Selected next map to be Islands.
+[04-02-2023 10:05:00] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[04-02-2023 10:05:00] [I] Selected next map to be Labyrinth.
+[04-02-2023 10:19:24] [I] Game over! Reached wave 3 with 0 players online on map Labyrinth.
+[04-02-2023 10:19:24] [I] Selected next map to be Wasteland.
+[04-02-2023 10:26:18] [I] Game over! Reached wave 3 with 0 players online on map Wasteland.
+[04-02-2023 10:26:18] [I] Selected next map to be Fork.
+[04-02-2023 10:32:37] [I] Game over! Reached wave 3 with 0 players online on map Fork.
+[04-02-2023 10:32:37] [I] Selected next map to be Domain.
+[04-02-2023 10:44:59] [I] Game over! Reached wave 3 with 0 players online on map Domain.
+[04-02-2023 10:44:59] [I] Selected next map to be Wasteland.
