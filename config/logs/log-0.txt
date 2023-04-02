@@ -136,3 +136,5 @@
 [04-02-2023 10:32:37] [I] Selected next map to be Domain.
 [04-02-2023 10:44:59] [I] Game over! Reached wave 3 with 0 players online on map Domain.
 [04-02-2023 10:44:59] [I] Selected next map to be Wasteland.
+[04-02-2023 10:51:52] [I] Game over! Reached wave 3 with 0 players online on map Wasteland.
+[04-02-2023 10:51:52] [I] Selected next map to be Triad.
