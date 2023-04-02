@@ -14,4 +14,4 @@ EXPOSE 8080
 COPY ./server.jar ./server.jar
 COPY ./config ./config
 COPY ./run_server.sh ./run_server.sh
-CMD ["java", "-jar", "server.jar", "host", "Molten_Lake"]
+ENTRYPOINT ["java", "-jar", "server.jar", "host", "Molten_Lake"]
