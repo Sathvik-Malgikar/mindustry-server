@@ -274,3 +274,29 @@
 [04-02-2023 13:44:31] [I] Loading map...
 [04-02-2023 13:44:31] [I] Map loaded.
 [04-02-2023 13:44:31] [I] Opened a server on port 6567.
+[04-02-2023 15:30:14] [I] Server loaded. Type 'help' for help.
+[04-02-2023 15:30:14] [I] Found 1 command-line arguments to parse.
+[04-02-2023 15:30:14] [I] Randomized next map to be Islands.
+[04-02-2023 15:30:14] [I] Loading map...
+[04-02-2023 15:30:15] [I] Map loaded.
+[04-02-2023 15:30:15] [I] Opened a server on port 6567.
+[04-02-2023 15:35:55] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[04-02-2023 15:35:55] [I] Selected next map to be Ancient Caldera.
+[04-02-2023 15:41:28] [I] Game over! Reached wave 2 with 0 players online on map Ancient Caldera.
+[04-02-2023 15:41:28] [I] Selected next map to be Islands.
+[04-02-2023 15:47:23] [I] Game over! Reached wave 2 with 0 players online on map Islands.
+[04-02-2023 15:47:23] [I] Selected next map to be Fork.
+[04-02-2023 15:53:42] [I] Game over! Reached wave 3 with 0 players online on map Fork.
+[04-02-2023 15:53:42] [I] Selected next map to be Fortress.
+[04-02-2023 15:59:11] [I] Game over! Reached wave 2 with 0 players online on map Fortress.
+[04-02-2023 15:59:11] [I] Selected next map to be Shattered.
+[04-02-2023 16:06:05] [I] Game over! Reached wave 3 with 0 players online on map Shattered.
+[04-02-2023 16:06:05] [I] Selected next map to be Fork.
+[04-02-2023 16:12:25] [I] Game over! Reached wave 3 with 0 players online on map Fork.
+[04-02-2023 16:12:25] [I] Selected next map to be Tendrils.
+[04-02-2023 16:18:12] [I] Game over! Reached wave 2 with 0 players online on map Tendrils.
+[04-02-2023 16:18:12] [I] Selected next map to be Labyrinth.
+[04-02-2023 16:24:32] [I] Game over! Reached wave 3 with 0 players online on map Labyrinth.
+[04-02-2023 16:24:32] [I] Selected next map to be Mud Flats.
+[04-02-2023 16:31:16] [I] Game over! Reached wave 3 with 0 players online on map Mud Flats.
+[04-02-2023 16:31:16] [I] Selected next map to be Wasteland.
