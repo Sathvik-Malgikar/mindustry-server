@@ -10,7 +10,7 @@
 
 
 FROM openjdk:11-jre-slim
-EXPOSE 8080
+EXPOSE 6567
 COPY ./server.jar ./server.jar
 COPY ./config ./config
 COPY ./run_server.sh ./run_server.sh

@@ -265,3 +265,12 @@
 [04-02-2023 12:42:04] [I] Loading map...
 [04-02-2023 12:42:04] [I] Map loaded.
 [04-02-2023 12:42:04] [I] Opened a server on port 8080.
+[04-02-2023 13:44:19] [I] Server loaded. Type 'help' for help.
+[04-02-2023 13:44:19] [I] Found 1 command-line arguments to parse.
+[04-02-2023 13:44:19] [I] port set to 6567.
+[04-02-2023 13:44:31] [I] Server loaded. Type 'help' for help.
+[04-02-2023 13:44:31] [I] Found 1 command-line arguments to parse.
+[04-02-2023 13:44:31] [I] Randomized next map to be Mud Flats.
+[04-02-2023 13:44:31] [I] Loading map...
+[04-02-2023 13:44:31] [I] Map loaded.
+[04-02-2023 13:44:31] [I] Opened a server on port 6567.
